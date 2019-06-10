@@ -1,3 +1,7 @@
+# How to run
+-Clone or download zip file. 
+-Launch with index.html
+
 # bowling-exercise
 User Story
 Title: Bowling Scoring Application
